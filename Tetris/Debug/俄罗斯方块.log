@@ -1,0 +1,5 @@
+﻿  俄罗斯方块.c
+c:\users\asus\desktop\tetris\queue.h(5): warning C4091: 'typedef ': ignored on left of 'NODE_T' when no variable is declared
+c:\users\asus\desktop\tetris\俄罗斯方块.c(305): warning C4098: 'GenerateBlock': 'void' function returning a value
+  俄罗斯方块.vcxproj -> C:\Users\asus\Desktop\Tetris\Debug\俄罗斯方块.exe
+  俄罗斯方块.vcxproj -> C:\Users\asus\Desktop\Tetris\Debug\俄罗斯方块.pdb (Full PDB)
